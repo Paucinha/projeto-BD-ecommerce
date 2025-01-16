@@ -1,4 +1,4 @@
-#  Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
+#  Refinando o Projeto Conceitual de Banco de Dados
 
 ![GitHub](https://img.shields.io/github/license/Paucinha/api-ecommerce-dio?style=flat-square)
 
@@ -24,6 +24,8 @@ Full-Stack | Intermediário | SQL
 ![Arquitetura 1](https://github.com/Paucinha/assets/blob/master/Projeto_E-COMMERCE.png)
 
 ##
+
+![formação sql](https://github.com/Paucinha/assets/blob/master/images.jpeg)
 
 Projeto desenvolvido durante o [**Heineken - Inteligência Artificial Aplicada a Dados com Copilot**](https://www.dio.me/bootcamp/coding-the-future-heineken-ia-para-analise-de-dados), fornecido pela [**DIO**](https://www.dio.me/)
 
