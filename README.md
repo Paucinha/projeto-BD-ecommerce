@@ -1,4 +1,4 @@
-#  Refinando o Projeto Conceitual de Banco de Dados
+# Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
 
 ![GitHub](https://img.shields.io/github/license/Paucinha/api-ecommerce-dio?style=flat-square)
 
